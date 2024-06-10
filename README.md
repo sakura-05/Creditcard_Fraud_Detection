@@ -1,2 +1,33 @@
-# Creditcard_Fraud_Detection
-This is a Credit Card Fraud Detection : Anonymized credit card transactions labeled as fraudulent or genuine - Credit Card Fraud Detection. The objective of the project is to perform data visualization techniques to understand the insight of the data.
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e89cbf8a-6f5a-44da-bed1-a13e273f7c40",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}

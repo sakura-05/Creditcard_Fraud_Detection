@@ -1,0 +1,36 @@
+## Requirements
+
+### Google Account
+To run this project, you will need a Google account to access Google Colab.
+
+### Google Colab
+You can access Google Colab [here](https://colab.research.google.com/).
+
+Download the Credit Card dataset link from here:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+
+
+### Libraries and Dependencies
+The following Python libraries are required to run this project:
+numpy (version 1.18.5)
+pandas (version 1.0.5)
+matplotlib (version 3.2.2)
+seaborn (version 0.12.2)
+scikit-learn (version 0.23.1)
+tensorflow (version 2.2.0)
+keras (version 2.15.0)
+warnings
+pylab
+
+To install these libraries, you can use the following commands in a Colab cell:
+
+```python
+!pip install numpy pandas matplotlib scikit-learn tensorflow
+
+
+Instructions
+Open Google Colab: Go to Google Colab.
+Upload the Notebook: Click on the 'File' menu and select 'Upload notebook'. Choose the .ipynb file of this project from your local machine.
+Install Dependencies: Run the provided pip install commands in the first cell of the notebook to ensure all dependencies are installed.
+Run the Notebook: Execute the cells in the notebook sequentially to run the project.
